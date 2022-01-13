@@ -14,5 +14,5 @@ This will train the model and produce:
 
 The model architecture is stored in Model.py
 
-The dataset is in root as age_gender.csv
-
+Below is an example of what the model produces
+![Results](/Results/results.jpg)
